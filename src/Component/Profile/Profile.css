@@ -1,0 +1,12 @@
+.Profile {
+}
+
+.Profile_Title {
+  text-align: center;
+}
+
+.Main_Title {
+  font-size: 6vh;
+  text-decoration: underline;
+  text-decoration-color: rgb(0,255,255);
+}
