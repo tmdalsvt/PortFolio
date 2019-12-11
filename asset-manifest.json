@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/tmdalsvt/PortFolio.git/static/css/main.d3aba15b.chunk.css",
+    "main.js": "/tmdalsvt/PortFolio.git/static/js/main.7f71d69c.chunk.js",
+    "main.js.map": "/tmdalsvt/PortFolio.git/static/js/main.7f71d69c.chunk.js.map",
+    "runtime-main.js": "/tmdalsvt/PortFolio.git/static/js/runtime-main.f3a6e810.js",
+    "runtime-main.js.map": "/tmdalsvt/PortFolio.git/static/js/runtime-main.f3a6e810.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/tmdalsvt/PortFolio.git/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.dad47552.chunk.js": "/tmdalsvt/PortFolio.git/static/js/2.dad47552.chunk.js",
+    "static/js/2.dad47552.chunk.js.map": "/tmdalsvt/PortFolio.git/static/js/2.dad47552.chunk.js.map",
+    "index.html": "/tmdalsvt/PortFolio.git/index.html",
+    "precache-manifest.ed0d993552c93b57591c6820a0f00859.js": "/tmdalsvt/PortFolio.git/precache-manifest.ed0d993552c93b57591c6820a0f00859.js",
+    "service-worker.js": "/tmdalsvt/PortFolio.git/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/tmdalsvt/PortFolio.git/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.d3aba15b.chunk.css.map": "/tmdalsvt/PortFolio.git/static/css/main.d3aba15b.chunk.css.map",
+    "static/media/C.png": "/tmdalsvt/PortFolio.git/static/media/C.3b96c497.png",
+    "static/media/CPP.png": "/tmdalsvt/PortFolio.git/static/media/CPP.58393424.png",
+    "static/media/JAVA.png": "/tmdalsvt/PortFolio.git/static/media/JAVA.74e943d8.png",
+    "static/media/JavaScript.png": "/tmdalsvt/PortFolio.git/static/media/JavaScript.11e8af26.png",
+    "static/media/MySQL.png": "/tmdalsvt/PortFolio.git/static/media/MySQL.07c28adf.png",
+    "static/media/NodeJS.png": "/tmdalsvt/PortFolio.git/static/media/NodeJS.23d4be78.png",
+    "static/media/ReactJS.png": "/tmdalsvt/PortFolio.git/static/media/ReactJS.254e2aad.png",
+    "static/media/Spring.svg": "/tmdalsvt/PortFolio.git/static/media/Spring.449e8efb.svg",
+    "static/media/Home.css": "/tmdalsvt/PortFolio.git/static/media/code.d71df34c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3a6e810.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.dad47552.chunk.js",
+    "static/css/main.d3aba15b.chunk.css",
+    "static/js/main.7f71d69c.chunk.js"
+  ]
+}
