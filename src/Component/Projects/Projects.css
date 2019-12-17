@@ -1,5 +1,5 @@
 .Projects {
-  background-color: rgb(179, 225, 172);
+  padding: 3rem 0;
 }
 
 .Project_Title {
@@ -10,4 +10,13 @@
   font-size: 6vh;
   text-decoration: underline;
   text-decoration-color: rgb(0,255,255);
+}
+
+.Period_Mark {
+  color: rgb(58, 120, 213);
+}
+
+.Content {
+  padding: 3rem 0;
+  border-bottom: 1px solid #eee;
 }
