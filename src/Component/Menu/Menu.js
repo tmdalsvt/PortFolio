@@ -14,8 +14,8 @@ class Menu extends Component {
               document.getElementById('main').scrollIntoView({behavior: "smooth"});
             }}>Main</Nav.Link>
             <Nav.Link onClick = {() => {
-              document.getElementById('profile').scrollIntoView({behavior: "smooth"});
-            }}>Profile</Nav.Link>
+              document.getElementById('career').scrollIntoView({behavior: "smooth"});
+            }}>Career</Nav.Link>
             <Nav.Link onClick = {() => {
               document.getElementById('skill').scrollIntoView({behavior: "smooth"});
             }}>Skills</Nav.Link>
