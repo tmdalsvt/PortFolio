@@ -1,5 +1,6 @@
 .Contact {
-  
+  padding: 3rem 0;
+  background-color: rgb(244, 244, 244);
 }
 
 .Contact_Title {
@@ -7,7 +8,42 @@
 }
 
 .Main_Title {
-  font-size: 6vh;
+  font-size: 5rem;
   text-decoration: underline;
   text-decoration-color: rgb(0,255,255);
+}
+
+table {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+table, thead, tr, th, tbody {
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+h6 {
+  font-size: 3rem;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #FF7F00;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.Info_Content {
+  padding: 0 3rem 0;
+}
+
+.Image {
+  width: 4rem;
+  height: 2rem;
+}
+
+.table-head {
+  font-weight: 500;
 }
