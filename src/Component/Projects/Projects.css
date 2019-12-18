@@ -1,5 +1,6 @@
 .Projects {
   padding: 3rem 0;
+  background-color: #d7ffff;
 }
 
 .Project_Title {
@@ -7,7 +8,7 @@
 }
 
 .Main_Title {
-  font-size: 6vh;
+  font-size: 5rem;
   text-decoration: underline;
   text-decoration-color: rgb(0,255,255);
 }
@@ -16,7 +17,28 @@
   color: rgb(58, 120, 213);
 }
 
+h2 {
+  font-style: italic;
+  font-variant: small-caps;
+}
+
+h5 {
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.Image {
+  width: 4rem;
+  height: 2rem;
+}
+
+.Project1 {
+  margin-top: 3.5rem;
+  width: 100%;
+  height: 50vh;
+}
+
 .Content {
   padding: 3rem 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid;
 }
